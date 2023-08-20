@@ -1,5 +1,5 @@
 ---
-title: Places where Maya is dwelling
+title: Places where you can find Maya
 subtitle: You can reach me in the following platforms!
 description: Duet is a beautiful Jekyll portfolio theme.
 featured_image: /images/demo/demo-landscape.jpg
