@@ -6,7 +6,7 @@ description: This page is a demo that shows everything you can do inside portfol
 featured_image: '/images/commissions/HLG7777_commission.jpg'
 ---
 
-![](/images/commissions/HLG7777_commission.jpg)
+![](/images/commissions/HLG7777_commission.jpg){:width="60%"}
 
 ## Artist
 
