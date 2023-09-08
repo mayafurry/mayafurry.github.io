@@ -1,7 +1,7 @@
 ---
 title: '水賀つくね🐶🍞'
 subtitle: '@Diga_foxdog'
-date: 2018-06-30 00:01:52
+date: 2018-06-30 00:01:53
 description: This page is a demo that shows everything you can do inside portfolio and blog posts.
 featured_image: '/images/commissions/1633924-1.output.jpg'
 ---
